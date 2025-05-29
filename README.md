@@ -59,7 +59,7 @@ Stay consistent to level up. Lose XP if you ghost your own schedule.
 Made for people who love time-blocking, hate guilt, and want gamified discipline.
 
 ## To do 
-A GUI version 🖥️
-A tray widget ☕
-Mobile port 📱
-Syncing it to your Google Calendar 😈
+- A GUI version 🖥️
+- ✅ A tray widget ☕
+- Mobile port 📱
+- Syncing it to your Google Calendar 😈
