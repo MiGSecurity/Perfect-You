@@ -1,0 +1,44 @@
+{
+    "tasks": [
+        {
+            "name": "Work",
+            "duration": 50,
+            "xp": 30
+        },
+        {
+            "name": "Short Break",
+            "duration": 10,
+            "xp": 10
+        },
+        {
+            "name": "Gym",
+            "duration": 45,
+            "xp": 25
+        },
+        {
+            "name": "Study",
+            "duration": 60,
+            "xp": 35
+        },
+        {
+            "name": "Cleaning",
+            "duration": 20,
+            "xp": 15
+        },
+        {
+            "name": "Walk",
+            "duration": 30,
+            "xp": 20
+        },
+        {
+            "name": "Meal",
+            "duration": 30,
+            "xp": 15
+        },
+        {
+            "name": "Call Family",
+            "duration": 20,
+            "xp": 20
+        }
+    ]
+}
