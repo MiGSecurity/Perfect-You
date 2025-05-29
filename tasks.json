@@ -1,44 +1,31 @@
 {
-    "tasks": [
-        {
-            "name": "Work",
-            "duration": 50,
-            "xp": 30
-        },
-        {
-            "name": "Short Break",
-            "duration": 10,
-            "xp": 10
-        },
-        {
-            "name": "Gym",
-            "duration": 45,
-            "xp": 25
-        },
-        {
-            "name": "Study",
-            "duration": 60,
-            "xp": 35
-        },
-        {
-            "name": "Cleaning",
-            "duration": 20,
-            "xp": 15
-        },
-        {
-            "name": "Walk",
-            "duration": 30,
-            "xp": 20
-        },
-        {
-            "name": "Meal",
-            "duration": 30,
-            "xp": 15
-        },
-        {
-            "name": "Call Family",
-            "duration": 20,
-            "xp": 20
-        }
-    ]
+  "tasks": [
+    { "name": "Work + Short Break 50/10", "duration": 60, "xp": 30 },
+    { "name": "Gym", "duration": 45, "xp": 25 },
+    { "name": "Study", "duration": 60, "xp": 35 },
+    { "name": "Deep Focus", "duration": 90, "xp": 40 },
+    { "name": "Cleaning", "duration": 20, "xp": 15 },
+    { "name": "Laundry", "duration": 40, "xp": 20 },
+    { "name": "Meal Prep", "duration": 45, "xp": 15 },
+    { "name": "Eat Meal", "duration": 30, "xp": 10 },
+    { "name": "Walk", "duration": 20, "xp": 15 },
+    { "name": "Journaling", "duration": 30, "xp": 20 },
+    { "name": "Meditation", "duration": 15, "xp": 10 },
+    { "name": "Call Family", "duration": 20, "xp": 20 },
+    { "name": "Hang Out With Friends", "duration": 60, "xp": 25 },
+    { "name": "Read Book", "duration": 30, "xp": 20 },
+    { "name": "Language Practice", "duration": 30, "xp": 20 },
+    { "name": "Write", "duration": 45, "xp": 25 },
+    { "name": "Brainstorm Ideas", "duration": 30, "xp": 20 },
+    { "name": "Organise Desk", "duration": 15, "xp": 10 },
+    { "name": "Stretch", "duration": 10, "xp": 5 },
+    { "name": "Yoga", "duration": 30, "xp": 20 },
+    { "name": "Run", "duration": 30, "xp": 25 },
+    { "name": "Bike", "duration": 40, "xp": 25 },
+    { "name": "Groceries", "duration": 30, "xp": 15 },
+    { "name": "Respond to Emails", "duration": 20, "xp": 10 },
+    { "name": "Planning Session", "duration": 20, "xp": 15 },
+    { "name": "Skill Practice", "duration": 45, "xp": 30 },
+    { "name": "Watch Learning Video", "duration": 30, "xp": 15 }
+  ]
 }
