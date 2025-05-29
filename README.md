@@ -1,5 +1,5 @@
 # Perfect-You
-A gamefied scheduler for those who have troubles staying consistant
+A gamefied scheduler for those who have troubles staying consistant.
 A minimalist CLI-based productivity tracker that rewards you with XP for completing scheduled tasks — and punishes you for skipping them. Think of it as a time-blocking planner mixed with an RPG.
 
 ## 🚀 Features
