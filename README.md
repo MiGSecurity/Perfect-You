@@ -16,7 +16,7 @@ A minimalist CLI-based productivity tracker that rewards you with XP for complet
 
 | File           | Description                             |
 |----------------|-----------------------------------------|
-| `xp_scheduler.py` | Main application code                 |
+| `perfect_u.py` | Main application code                 |
 | `tasks.json`      | Define your own tasks and XP values   |
 | `profile.json`    | Auto-generated user profile           |
 | `schedule.json`   | Auto-generated daily task list        |
