@@ -51,8 +51,8 @@ duration: in minutes
 
 xp: XP gained on successful completion
 
-##❌ Miss a task?
+## ❌ Miss a task?
 You’ll lose half the XP you would’ve gained. Brutal but fair.
 
-##📈 Leveling
+## 📈 Leveling
 Stay consistent to level up. Lose XP if you ghost your own schedule.
