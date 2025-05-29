@@ -56,3 +56,4 @@ You’ll lose half the XP you would’ve gained. Brutal but fair.
 
 ## 📈 Leveling
 Stay consistent to level up. Lose XP if you ghost your own schedule.
+Made for people who love time-blocking, hate guilt, and want gamified discipline.
